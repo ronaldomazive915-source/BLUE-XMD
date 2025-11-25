@@ -1,4 +1,4 @@
-# <p align="center"> ✨ BLUE-XMD • WhatsApp Bot ✨ </p>
+# <p align="center"> ✨ RONY SKIES • WhatsApp Bot ✨ </p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=Welcome+to+BLUE-XMD;A+Modern+WhatsApp+Bot;Built+by+Mr+Emerald;Powered+by+Baileys+MD" alt="Typing Animation" />
@@ -30,8 +30,8 @@
 
 ## ⚡ Installation
 ```bash
-git clone https://github.com/emeraldlevels/BLUE-XMD
-cd BLUE-XMD
+git clone https://github.com/ronaldomazive1905
+cd Rony Skies
 npm install
 node index.js
 ```
@@ -40,10 +40,10 @@ node index.js
 
 ## 🌐 Links & Community
 - 📢 [Bot Channel](https://whatsapp.com/channel/0029Vb6OLyzEAKWFsk7REX3r)
-- 💻 [GitHub Repo](https://github.com/emeraldlevels/BLUE-XMD)
-- 🎥 [YouTube](https://www.youtube.com/@EmeraldLevels)
-- 🎵 [TikTok](https://tiktok.com/@emeralds.levels)
+- 💻 [GitHub Repo](https://github.com/ronaldomazive1905)
+- 🎥 [YouTube](https://www.youtube.com/@ronyskies1)
+- 🎵 [TikTok](https://tiktok.com/@ronaldomazive1905)
 
 ---
 
-<p align="center">✨ Built with ❤️ by <b>Mr Emerald</b> ✨</p>
+<p align="center">✨ Built with ❤️ by <b>Mr Rony skies</b> ✨</p>
