@@ -1,14 +1,14 @@
 {
-  "name": "tracle",
+  "name": "RONY",
   "version": "1.0.0",
-  "description": "Tracle WhatsApp Bot",
+  "description": "Rony WhatsApp Bot",
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "Brenald Media",
+  "author": "Rony Media",
   "license": "ISC",
   "dependencies": {
     "@bochilteam/scraper": "^5.0.1",
